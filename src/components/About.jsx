@@ -5,7 +5,7 @@ export default function About() {
     <section className="section about" id="about">
       <div className="section__head">
         <span className="section__kicker">About</span>
-        <h2 className="section__title">A guitarist's guitarist</h2>
+        <h2 className="section__title">Guitarist</h2>
       </div>
 
       <div className="about__grid">
