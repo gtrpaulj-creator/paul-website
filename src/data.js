@@ -11,7 +11,7 @@ export const links = {
     'https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Ddigital-music&field-keywords=paul+johnson+coming+home',
   cdbaby: 'http://www.cdbaby.com/pjohnsonmusic',
   spotifyEmbed: 'https://open.spotify.com/embed/album/3iZZJh2szB11NsToThpUt9?theme=0',
-  email: 'booking@guitaristpauljohnson.com',
+  email: 'gtrpaulj@gmail.com',
 }
 
 // Upcoming shows — edit / add entries here. Past dates can simply be removed.
@@ -30,6 +30,13 @@ export const shows = [
     venue: "Anthony's HomePort",
     city: 'Gig Harbor, WA',
     detail: 'Trio w/ Darren Motamedy',
+  },
+  {
+    date: 'Thu · Jul 15, 2026',
+    time: '4:00 PM',
+    venue: 'Post & Pour',
+    city: 'Bonney Lake, WA',
+    detail: 'Quartet · Outdoor concert',
   },
   {
     date: 'Thu · Jul 15, 2026',
