@@ -32,10 +32,10 @@ export const shows = [
     detail: 'Trio w/ Darren Motamedy',
   },
   {
-    date: 'Thu · Jul 3, 2026',
-    time: '5:00 PM',
-    venue: 'Chambers Bay Summer Series',
-    city: 'University Place, WA',
+    date: 'Thu · Jul 15, 2026',
+    time: '4:00 PM',
+    venue: 'Post & Pour',
+    city: 'Bonney Lake, WA',
     detail: 'Quartet · Outdoor concert',
   },
 ]
