@@ -131,15 +131,11 @@ export const services = [
   },
   {
     title: 'Trio & Quartet',
-    desc: 'A full, polished sound for concerts, galleries, and listening rooms across the Puget Sound.',
+    desc: 'A full, polished sound for concerts, galleries, and listening rooms.',
   },
   {
     title: 'Corporate & Private Events',
     desc: 'A smooth, professional presence for receptions, fundraisers, weddings, and celebrations.',
-  },
-  {
-    title: 'Sideman & Collaborations',
-    desc: 'Versatile support for vocalists, horn players, and bands that need a tasteful guitarist.',
   },
 ]
 
