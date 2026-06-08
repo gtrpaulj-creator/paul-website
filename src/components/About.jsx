@@ -11,22 +11,24 @@ export default function About() {
       <div className="about__grid">
         <div className="about__body">
           <p>
-            Based in the Puget Sound area, Paul Johnson is an acoustic and
-            electric guitarist who has spent his career making music feel
-            effortless. He performs as a soloist, leads trios and quartets, and
-            is a trusted sideman for vocalists and bands across the region.
+            Paul Johnson is an acoustic and electric guitarist based in the 
+            Puget Sound area. He performs as a soloist, leads small groups, 
+            and also plays for other artists and bands in the Northwest including
+            Darren Motamedy, Brandon Willis, Gruv Collective, Cosmic Vinyl and 
+            Wally and the Beaves.
           </p>
           <p>
-            A graduate of Central Washington University with a degree in music
-            education, Paul taught in the public school system before devoting
-            himself to performing. In 2007 he began a long-running collaboration
-            with saxophonist Darren Motamedy, and the two have shared stages
-            throughout the Northwest ever since.
+            A partial list of venues Paul has played for includes: 
+            The Space Needle, Meydenbauer Center, the Chihuly Glass Museum, 
+            the Washington State Convention Center, the Muckleshoot Casino, 
+            the Lake Chelan Jazz Festival, the City of Maple Valley, 
+            the City of Enumclaw, the City of Auburn, and many local coffee shops
+            and wine bars.
           </p>
           <p>
-            Whether it's a quiet wine bar or a corporate ballroom, Paul brings
-            the same thing every time: a smooth, professional environment that
-            sounds as good in the background as it does up front.
+            Whether it's a playing for a quiet event as a soloist, or in a ballroom 
+            for a business gathering, Paul provides a smooth, professional environment
+            that caters to the needs of the occasion.
           </p>
 
           <div className="about__bands">
