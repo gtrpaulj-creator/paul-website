@@ -5,7 +5,7 @@ export default function Performances() {
     <section className="section performances" id="performances">
       <div className="section__head">
         <span className="section__kicker">Performances</span>
-        <h2 className="section__title">However you need him</h2>
+        <h2 className="section__title">What do you need?</h2>
         <p className="section__intro">
           From a single guitar in the corner to a full quartet on stage, Paul
           tailors the sound to the room and the occasion.
