@@ -5,7 +5,7 @@ export default function About() {
     <section className="section about" id="about">
       <div className="section__head">
         <span className="section__kicker">About</span>
-        <h2 className="section__title">Guitarist</h2>
+        <h2 className="section__title">Proven Experience</h2>
       </div>
 
       <div className="about__grid">
@@ -21,8 +21,8 @@ export default function About() {
             A partial list of venues Paul has played for includes: 
             The Space Needle, Meydenbauer Center, the Chihuly Glass Museum, 
             the Washington State Convention Center, the Muckleshoot Casino, 
-            the Lake Chelan Jazz Festival, the City of Maple Valley, 
-            the City of Enumclaw, the City of Auburn, and many local coffee shops
+            the Lake Chelan Jazz Festival, the City of Maple Valley, the 
+            City of Enumclaw, the City of Auburn, and many local coffee shops
             and wine bars.
           </p>
           <p>
@@ -43,7 +43,7 @@ export default function About() {
 
         <aside className="about__stats">
           <div className="stat">
-            <span className="stat__num">15+</span>
+            <span className="stat__num">20+</span>
             <span className="stat__label">Years performing across the Puget Sound</span>
           </div>
           <div className="stat">
