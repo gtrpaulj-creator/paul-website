@@ -56,8 +56,8 @@ export const shows = [
     date: 'Thu · Jul 9, 2026',
     time: '6:30 - 8:00 PM',
     venue: 'Lake Burien School Park 1620 SW 149TH ST Burien, WA',
-    city: 'Kent, WA',
-    detail: 'With the Dueling Crooners (music of Sinatra, Nat King Cole, Michael Buble, etc)',
+    city: 'Burien, WA',
+    detail: 'With the Dueling Crooners; Music of Sinatra, Nat King Cole, Michael Buble, etc',
   },
   {
     date: 'Sun · July 12, 2026',
