@@ -4,7 +4,6 @@ const sections = [
   ['about', 'About'],
   ['music', 'Music'],
   ['shows', 'Shows'],
-  ['performances', 'Performances'],
   ['contact', 'Book'],
 ]
 
