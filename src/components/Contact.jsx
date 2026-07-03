@@ -3,7 +3,7 @@ import { links, services } from '../data.js'
 export default function Contact() {
   return (
     <section className="section contact" id="contact">
-      <div className="contact__panel">
+      <div className="contact__head">
 
         <div className="section__head">
           <span className="section__kicker">Performances</span>
