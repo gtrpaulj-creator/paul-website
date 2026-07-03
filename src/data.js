@@ -67,6 +67,13 @@ export const shows = [
     detail: 'With Cosmic Vinyl',
   },
   {
+    date: 'Tue · July 14, 2026',
+    time: '12:00 - 3:00 PM',
+    venue: 'Argosy Cruise Line',
+    city: 'Seattle, WA',
+    detail: 'With Darren Motamedy',
+  },
+  {
     date: 'Sat · Aug 1, 2026',
     time: '6:00 - 9:00 PM',
     venue: 'Private event at 253 in the Muckleshoot',
