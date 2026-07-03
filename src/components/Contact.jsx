@@ -3,10 +3,8 @@ import { links, services } from '../data.js'
 export default function Contact() {
   return (
     <section className="section contact" id="contact">
-      <div className="contact__head">
-
         <div className="section__head">
-          <span className="section__kicker">Performances</span>
+          <span className="section__kicker">Book</span>
           <h2 className="section__title">What do you need?</h2>
           <p className="section__intro">
             From a single guitar in the corner to a full quartet on stage, Paul
