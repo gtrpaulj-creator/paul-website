@@ -48,7 +48,6 @@ export default function Contact() {
             Prefer email? Write to{' '}
             <a href={`mailto:${links.email}`}>{links.email}</a>
           </p>
-        </div>
       </div>
     </section>
   )
