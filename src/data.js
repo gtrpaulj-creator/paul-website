@@ -59,6 +59,13 @@ export const shows = [
     city: 'Des Moines, WA',
     detail: 'Private event, with Richard Perry and Wayne Ledbetter',
   },
+  {
+    date: 'Sat · Dec 19, 2026',
+    time: '6:00 - 8:00 PM',
+    venue: 'Leony Cellars Winery',
+    city: 'Enumclaw, WA',
+    detail: 'More info coming soon!',
+  },
 ]
 
 export const bands = [
